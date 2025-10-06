@@ -56,6 +56,7 @@ public class App
             catch (Exception e)
             {
                 System.out.println("Error closing connection to database");
+                //
             }
         }
     }
